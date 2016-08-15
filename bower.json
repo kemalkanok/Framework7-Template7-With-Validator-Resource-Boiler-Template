@@ -1,0 +1,22 @@
+{
+  "name": "www",
+  "authors": [
+    "Kemal Kanok <kemalkanok@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "framework7":"*",
+    "template7":"*"
+  }
+}
